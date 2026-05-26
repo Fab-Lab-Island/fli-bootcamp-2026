@@ -4,7 +4,7 @@
 
 ## FabModules
 
-Sækið [fabmodules-html5 folderinn hér](/docs/assets/Roland_MDX-20/fabmodules-html5.zip) eða á upprunalega [FabModules](https://github.com/FabModules/fabmodules-html5) git repoinu 
+Sækið [fabmodules-html5 folderinn hér](../../assets/Roland_MDX-20/fabmodules-html5.zip) eða á upprunalega [FabModules](https://github.com/FabModules/fabmodules-html5) git repoinu 
 
     git clone https://github.com/FabModules/fabmodules-html5.git
 
