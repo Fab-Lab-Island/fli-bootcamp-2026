@@ -31,21 +31,4 @@ og setjið á góðan stað í tölvunni. Fylgið svo leiðbeiningum.
 
 ## Original software pakkinn
 
-Original software pakkinn var of stór til að setja inn á git repoið í fullri mynd. Eins og þetta kom frá Svavari þá var "Roland_Manual.pdf" og folderarnir "RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150" og "Software" inni í "roland modela mdx-20" foldernum
-
-###
-[Roland MDX-20 Manual](/docs/assets/Roland_MDX-20/Roland_Manual.pdf)
-
-### Drivers
-
-[RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150](/docs/assets/Roland_MDX-20/RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150.zip)
-
-### Original software
-
-[roland modela mdx-20](/docs/assets/Roland_MDX-20/roland%20modela%20mdx-20.zip)
-
-### Software
-
-[Software](/docs/assets/Roland_MDX-20/roland%20modela%20mdx-20.zip)
-
----
+[Original Software pakkinn er of stór til að setja inn á github (file size limit 50 MB) en hann er hægt að finna hér.](https://drive.google.com/file/d/1DVFsB_sdc-uqrqShIiRUKHckfgBztzLg/view?usp=drive_link) (Only people with access can open with the link)
