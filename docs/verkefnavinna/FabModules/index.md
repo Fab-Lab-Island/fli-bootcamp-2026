@@ -12,7 +12,7 @@ og setjið á góðan stað í tölvunni. Fylgið svo leiðbeiningum.
 
 ## Um verkefnið
 
-Þessi síða inniheldur gamla FabModules forritið ásamt einföldum leiðbeiningum á notkun FabModules með Roland MDX-20
+Þessi síða inniheldur gamla FabModules forritið ásamt einföldum leiðbeiningum á notkun FabModules með Roland MDX-20.
 
 ## Notkun TL:DR
 
