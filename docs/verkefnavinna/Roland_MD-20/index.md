@@ -1,6 +1,6 @@
 # Roland MDX-20
 
-[Roland MDX-20 Manual](/docs/assets/Roland_MDX-20/Roland_Manual.pdf) - RTFM
+[Roland MDX-20 Manual](../../assets/Roland_MDX-20/Roland_Manual.pdf) - RTFM
 
 ## FabModules
 
