@@ -10,7 +10,7 @@ Sækið [fabmodules-html5 folderinn hér](/docs/assets/Roland_MDX-20/fabmodules-
 
 og setjið á góðan stað í tölvunni. Fylgið svo leiðbeiningum.
 
-+ [.pdf leiðbeiningar fyrir Roland MDX-20 CNC fræsi með FabModules](/docs/assets/Roland_MDX-20/Roland_FabModules_Leidbeiningar-compressed.pdf)
++ [.pdf leiðbeiningar fyrir Roland MDX-20 CNC fræsi með FabModules](../../assets/Roland_MDX-20/Roland_FabModules_Leidbeiningar-compressed.pdf)
 
 ---
 
