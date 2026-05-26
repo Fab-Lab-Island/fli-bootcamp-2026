@@ -1,0 +1,18 @@
+<b>input</b><br>
+file: {{ input_name }}  <br>
+file size: {{ input_size }} <br>
+type: 
+float 32 <input type="radio" name="mod_units" id="mod_float32" checked>
+int 16 <input type="radio" name="mod_units" id="mod_int16"><br>
+nx: <input type="text" id="mod_nx" size="3" value="1"><br>
+ny: <input type="text" id="mod_ny" size="3" value="1"><br>
+nz: <input type="text" id="mod_nz" size="3" value="1"><br>
+vol size: <span id="mod_size">4</span><br>
+<input id="show_density" type="button" value="show density"><br>
+layer: <input type="text" id="mod_layer" size="3" value="0"><br>
+<input type="button" id="show_section" value="show section"><br>
+min threshold: <input type="text" id="mod_tmin" size="3" value=""><br>
+max threshold: <input type="text" id="mod_tmax" size="3" value=""> <br>
+<input type="button" id="show_mesh" value="show mesh"><br>
+<input type="button" id="save_stl" value="save .stl">
+<br>
