@@ -1,6 +1,6 @@
 # FabModules gamla forritið
 
-Sækið fabmodules-html5 folderinn og setjið á góðan stað í tölvunni. Fylgið svo leiðbeiningum.
+Sækið [FabModules](https://github.com/FabModules/fabmodules-html5) (fabmodules-html5) og setjið á góðan stað í tölvunni. Fylgið svo leiðbeiningum.
 
 + .pdf leiðbeiningar fyrir Roland MDX-20 CNC fræsi með FabModules
 
