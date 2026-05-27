@@ -1,3 +1,5 @@
 # Heimsókn í Ísponica
 
-Hópurinn heimsóti fyrirtækið [Ísponica](https://isponica.is/) sem er staðset á Hofsós og vinnur að því að ræta mat á sjálfbæran hátt.
+Hópurinn heimsóti fyrirtækið [Ísponica](https://isponica.is/) sem er staðsett á Hofsós og vinnur að því að rækta mat á sjálfbæran hátt.
+
+![Logo](./img/isponica/logo_compressed.jpg)
