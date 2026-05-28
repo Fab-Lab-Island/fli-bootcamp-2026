@@ -1,3 +1,3 @@
-# Kynningar
+# Heimsókn og Kynningar
 
 Á þessa síðu koma heimsóknir og kynningar
