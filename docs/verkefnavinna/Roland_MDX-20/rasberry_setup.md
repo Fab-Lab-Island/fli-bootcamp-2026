@@ -1,4 +1,4 @@
-# Rasberry pi uppsetning
+# Rasberry pi uppsetning MDX-20
 
 Modela mdx er keyrð á rassbery pi smá tölvu.
 

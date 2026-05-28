@@ -1,4 +1,4 @@
-# Roland MDX-20
+# Leiðbeiningar fyrir MDX-20
 
 [Roland MDX-20 Manual](../../assets/Roland_MDX-20/Roland_Manual.pdf) - RTFM
 
