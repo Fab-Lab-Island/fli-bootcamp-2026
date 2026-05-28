@@ -1,3 +1,2 @@
 # Landslagsmódel
 
-Spegill
