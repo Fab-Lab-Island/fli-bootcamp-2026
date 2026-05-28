@@ -4,7 +4,7 @@ hide:
   # - toc
 ---
 
-# Dagskrá 550
+# Dagskrá
 
 Athugasemdir: Dagurinn hefst ávalt í FAB LAB Sauðárkróki, .
 
