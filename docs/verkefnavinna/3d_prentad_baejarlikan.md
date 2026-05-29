@@ -49,27 +49,27 @@ Til að gera sjóinn (sem er með aðeins flóknara form heldur en vötnin) var 
 
 ### Slicing og útprentun
 Notast var við Prusa XL - 5T Input Shaper prentara við útprentun á þessu tiltekna verkefni, en hvaða prentari með möguleikann á litabreytingum ætti að henta fyrir þetta verkefni. Landlíkaninu var hlaðið upp í forritið [Prusa Slicer](https://www.prusa3d.com/p/prusaslicer/), sem er slicer forrit þar sem hægt er að stilla prentstillingarnar fyrir prentverkið áður en það er sent í prentarann. Stillingarnar skipta gífurlega miklu máli hérna þar sem að hús og vegir eru mjög smágerðir og ef það er ekki sagt prentaranum að taka tillit til þess þá munu þau einfaldlega ekki prentast út. Í þessu verkefni voru eftirfarandi stillingar breyttar til að draga fram sem mest af smáatriðum módelsins:  
-**Print Settings preset++: 0,10mm FAST DETAIL @XLIS 0.4
-**Layers and perimeters**
-***Layer height***
-Layer height: 0,05 mm
-First layer height: 0,1 mm
-***Vertical shells***
-Perimeters: 4
-***Quality***
-Extra perimeters if needed: enabled
-Detect bridging perimeters: enabled
-***Advanced***
-Seam Position: Rear
-Perimeter generation: Arachne
-**Infill**
-***Infill***
-Fill density: 40%
-Fill pattern: Adaptive Cubic
-**Advanced**
-***Arachne perimeter generator***
-Minimum perimeter width: 95%
-Minimum feature size: 1%
+**Print Settings preset++: 0,10mm FAST DETAIL @XLIS 0.4  
+**Layers and perimeters**  
+***Layer height***  
+Layer height: 0,05 mm  
+First layer height: 0,1 mm  
+***Vertical shells***  
+Perimeters: 4  
+***Quality***  
+Extra perimeters if needed: enabled  
+Detect bridging perimeters: enabled  
+***Advanced***  
+Seam Position: Rear  
+Perimeter generation: Arachne  
+**Infill**  
+***Infill***  
+Fill density: 40%  
+Fill pattern: Adaptive Cubic  
+**Advanced**  
+***Arachne perimeter generator***  
+Minimum perimeter width: 95%  
+Minimum feature size: 1%  
   
 Að lokum, þegar þessar stillingar eru klárar þá er módelið "slice'að" og það sett í prentarann. Í þessu tilviki tók módelið 18 klst og 13 min að prentast út, veig 160,76 g, og var prentað út í einungis hvítum lit af Polyterra PLA efni. Á meðan að landlíkanið var að prentast út var undirbúið rammann.
   
