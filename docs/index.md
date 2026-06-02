@@ -8,12 +8,13 @@ hide:
 
 <!-- ![velkomin](assets/img/index/velkomin_comp.jpg){width=70%} -->
 ///caption
+
 Karítas forstöðumaður fab Lab Sauðárkrókar býður ykkur velkomin!
 ///
 
 ## Bootcamp fyrri ára
 
-📍 **[2024 – Húsavík](https://fab-lab-island.github.io/fli-bootcamp-2025/)**<br>
+📍 **[2025 – Húsavík](https://fab-lab-island.github.io/fli-bootcamp-2025/)**<br>
 📍 **[2024 – Selfoss](https://fab-lab-island.github.io/fli-bootcamp-2024/)**<br>
 📍 **[2023 – Neskaupstaður](https://fab-lab-island.github.io/fli-bootcamp-2023/)**  <br>
 📍 **[2022 – Ísafjörður]()**<br>
