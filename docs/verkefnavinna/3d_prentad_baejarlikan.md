@@ -15,15 +15,17 @@ Dæmi um cityscape módel af [Makerworld](https://makerworld.com/en/models/10626
 
 ## Verkferill
 ### Landlíkan og Mannvirki
-Notast var við forritið [maps3d.io](https://maps3d.io/editor) sem er borgað forrit á netinu þar sem hægt er að hlaða niður þrívíddarskrám af landlíkönum. Í byrjun þarf að ákvarða svæðið sem að búa á til landlíkan af og er þar hægt að velja milli þriggja staðlaða forma (þ.e.a.s. kassi, hringur, og sexhyrningur) auk þess sem hægt er að teikna inn sín eigin form. Eftir að búið er að teikna inn svæðið er ýtt á "Generate 3D map" takkann. Athugið að einnig er hægt að stilla nákvæmlega stærð svæðisins í glugganum hægra megin.
-![maps3s](maps3d.io_part_1.png) 
+Notast var við forritið [maps3d.io](https://maps3d.io/editor) sem er borgað forrit á netinu þar sem hægt er að hlaða niður þrívíddarskrám af landlíkönum. Í byrjun þarf að ákvarða svæðið sem að búa á til landlíkan af og er þar hægt að velja milli þriggja staðlaða forma (þ.e.a.s. kassi, hringur, og sexhyrningur) auk þess sem hægt er að teikna inn sín eigin form. Eftir að búið er að teikna inn svæðið er ýtt á "Generate 3D map" takkann. Athugið að einnig er hægt að stilla nákvæmlega stærð svæðisins í glugganum hægra megin.  
+
+![Maps3d.io interface](maps3d.io_part_1.png) 
+
 !!! info "Stillingar Verkefnis"
 
     Í þessu verkefni var ákveðið að taka ferhyrningslaga svæði af Sauðárkróki sem er 2,8km á hæð og breidd
   
-Forritið sér þá um að draga fram gögn frá OpenStreetMap (sem er landmælingar gagnakerfi sem er notað mikið í kortagerð um allan heim) og nýtir þar hæðargögn til að skapa þrívíddarmódel af landinu á svæðinu sem var valið. Í stillingunum hægra megin er síðan hægt að leika sér með stillingarnar til að t.d. bæta við húsum, götum, ýkja ár, vötn, og sjó o.þ.h.
+Forritið sér þá um að draga fram gögn frá OpenStreetMap (sem er landmælingar gagnakerfi sem er notað mikið í kortagerð um allan heim) og nýtir þar hæðargögn til að skapa þrívíddarmódel af landinu á svæðinu sem var valið. Í stillingunum hægra megin er síðan hægt að leika sér með stillingarnar til að t.d. bæta við húsum, götum, ýkja ár, vötn, og sjó o.þ.h.  
 
-![3map2](maps3d.io_part_2.png)  
+![Þrívíddargerð í maps3d.io](maps3d.io_part_2.png)  
 
 Þegar að stillingarnar eru tilbúnar þá er hægt að ýta á "Export" takkann og hlaða módelinu niður eftir að greitt er fyrir það.
   
@@ -73,8 +75,7 @@ Fill pattern: Adaptive Cubic
 Minimum perimeter width: 95%  
 Minimum feature size: 1%  
 
- ![Landlíkan í prentun](landlíkan_prentun.jpg)
-
+![Landlíkan í prentun](landlíkan_prentun.jpg)
 Að lokum, þegar þessar stillingar eru klárar þá er módelið "slice'að" og það sett í prentarann. Í þessu tilviki tók módelið 18 klst og 13 min að prentast út, veig 160,76 g, og var prentað út í einungis hvítum lit af Polyterra PLA efni. Á meðan að landlíkanið var að prentast út var undirbúið rammann.
   
 ### Hönnun á ramma
@@ -85,12 +86,13 @@ Prentstillingarnar á rammanum eru heldur auðveldari en á landlíkaninu, en he
 Varðandi prentstillingar þá var notast við venjulegu preset prent stillinguna 0,20 mm STRUCTURAL, nema hvað infill var breytt í 10% gyroid pattern.
 Eftir það var ramminn sendur í prentarann, í heild tók 2 klst og 8 min að prenta út rammann.
 
-![Rammi í prentun](landlíkan_prentun.jpg)
+![Rammi í prentun](landlíkan_rammi_prentun.jpg)
 
   
 ### Loka handtök
 Í lokin var módelið skoðað og öll óhreinindi og lausir prentþræðir hreinsaðir. Síðan var módelinu ýtt í ramman og það fest saman með fáeinum dropum af superglue.
-
+![Loka útkoma](Landlíkan_loka.jpg)
+  
 ## Vandamál og Áskoranir
 Nokkur vandamál komu upp meðan að á verkinu stóð yfir og verður hér farið yfir þau í stórum dráttum.
 - Leitast var upprunalega eftir leið til að búa til landlíkan sem kostaði ekkert, en ekki var hægt að nálgast nægilega nákvæm hæðargögn á netinu til að búa til landlíkan í þessari smáu stærð. Var því endað á því að leitast eftir ódýrasta kostinum sem þó býður upp á sem mesta nákvæmni.
