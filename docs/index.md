@@ -1,10 +1,19 @@
 ---
 hide:
   - navigation
-  - toc
+ # - toc
   - path
 ---
 # Bootcamp Sauðárkrókur 2026
+
+Árlega hittast allar Fab Lab smiðjur á Íslandi til að efla samstarf, miðla þekkingu og þróa nýjar hugmyndir. Við köllum það **Bootcamp**
+
+
+![hop](assets/img/index/hop.jpg)
+
+
+![hopm](assets/img/index/hopm.jpg)
+
 
 <!-- ![velkomin](assets/img/index/velkomin_comp.jpg){width=70%} -->
 ///caption
@@ -22,8 +31,5 @@ Karítas forstöðumaður fab Lab Sauðárkrókar býður ykkur velkomin!
 📍 **[2019 – Vestmanneyjar]()**<br>
 📍 **[2018 – Sauðárkrókur]()**<br>
 
-## Um Bootcamp
-
-Árlega hittast allar Fab Lab smiðjur á Íslandi til að efla samstarf, miðla þekkingu og þróa nýjar hugmyndir. Við köllum það **Bootcamp**
 
 [fablab.is](https://fablab.is/)
