@@ -14,17 +14,17 @@ Lóa og Óli kynntu niðurstöður könnunar sem ráðuneytið hafði unnið og 
 
 Starfsmenn Fab Lab smiðjanna kynntu verkefni og starfsemi úr sínum heimabyggðum. Þar gafst tækifæri til að sýna fjölbreytni verkefna innan netverksins og hvernig smiðjurnar styðja við STEM menntun, frumkvöðlastarfsemi, nýsköpun og samfélagsverkefni um land allt.
 
-![Fab Lab starfsemi fólk og verkefni - kynning](./assets/Fab_Lab_Ísland_sögur_um_fólk_og_verkefni.pdf#toolbar=0&navpanes=0&view=Fit){ type=application/pdf style="width:100%; height:520px; border:none;" }
+![Fab Lab starfsemi fólk og verkefni - kynning](./assets/Fab_Lab_Ísland_sögur_um_fólk_og_verkefni_vef.pdf#toolbar=0&navpanes=0&view=Fit){ type=application/pdf style="width:100%; height:520px; border:none;" }
 
-[Fab Lab starfsemi fólk og verkefni - kynning](./assets/Fab_Lab_Ísland_sögur_um_fólk_og_verkefni.pdf)
+[Fab Lab starfsemi fólk og verkefni - kynning](./assets/Fab_Lab_Ísland_sögur_um_fólk_og_verkefni_vef.pdf)
 
 ## Fab Lab Ísland
 
 Einnig var haldin kynning á Fab Lab Íslandi þar sem farið var yfir sögu netverksins, samstarf smiðjanna og framtíðarsýn. Kynnt voru verkefni sem hafa verið unnin víðs vegar um landið og hvernig Fab Lab smiðjurnar skapa aðgengi að tækni, verklegu námi og skapandi lausnaleit fyrir fólk á öllum aldri.
 
-![Fab Lab í vistkerfi nýsköpunar á Íslandi](./assets/Fab_Lab_í_vistkerfi_nýsköpunar_á_Íslandi.pdf#toolbar=0&navpanes=0){ type=application/pdf style="width:100%; height:520px;" }
+![Fab Lab í vistkerfi nýsköpunar á Íslandi](./assets/Fab_Lab_í_vistkerfi_nýsköpunar_á_Íslandi_vef.pdf#toolbar=0&navpanes=0){ type=application/pdf style="width:100%; height:520px;" }
 
-![Fab Lab í vistkerfi nýsköpunar á Íslandi - Kynning](./assets/Fab_Lab_í_vistkerfi_nýsköpunar_á_Íslandi.pdf)
+[Fab Lab í vistkerfi nýsköpunar á Íslandi - Kynning](./assets/Fab_Lab_í_vistkerfi_nýsköpunar_á_Íslandi_vef.pdf)
 
 ## Samantekt
 
