@@ -4,7 +4,7 @@
 
 ## Vefsíða náttúrufræðistofnunar
 
-![Vefsíðan](vefsidanatt.png)
+![Vefsíðan](img/landslags_fraes/vefsidanatt.png)
 
 ## Velja hæðalíkan.
 
@@ -14,11 +14,11 @@ Velja "Hæðalíkan" kortasjá.
 Þegar við erum inn í Hæðalíkan þá þarf að haka í "Sækja gögn, smelltu á reit"
 Þá mun vinnuglugginn vinstra megin breytast þegar við smellum á reitinn sem við viljum sækja.
 
-![Hæðalíkan](vefsidahaedalikan.png)
+![Hæðalíkan](img/landslags_fraes/vefsidahaedalikan.png)
 
 ## Velja Reit.
 
-![Velja Reit á korti](saekjahaedalikan.png)
+![Velja Reit á korti](img/landslags_fraes/saekjahaedalikan.png)
 
 Inn í Hæðalíka getum við valið okkur svæði í þessu tilfelli þá er ég að velja reit NR. 15
 Sem að er Skagafjarðarsvæði. Það er hægt að sækja fleiri reiti og samtengja það seinna meir.
