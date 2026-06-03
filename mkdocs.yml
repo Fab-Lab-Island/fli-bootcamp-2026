@@ -56,7 +56,9 @@ plugins:
       is_video: true
       video_controls: true
   - table-reader
+  - mkdocs-pdf
   # - caption
+
 
 extra:
   analytics:
