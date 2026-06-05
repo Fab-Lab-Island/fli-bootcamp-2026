@@ -42,6 +42,7 @@ Hérna getur þú dregið .tif skjalið beint inn í Layers
 ![error](img/landslags_fraes/lokaerrorglugga.png)
 
 Ef þessi error gluggi kemur upp þá má loka honum með því að ýta á X upp í hægra horninu. 
+Best er að búa til ferhyrning með sirka jafn langar hliðar. 
 
 ![Exportimage](exportimage.png)
 
@@ -58,6 +59,10 @@ ert að prófa þessa aðferð. Því hærri sem dpi fjöldinn er því þyngra 
 Þegar þú ýtir á skref nr.3 að ofan þá hverfur glugginn og þú færð plús merki sem bendil. 
 Þetta virkar eins og Snipping tool eða klippiverfærið í windows þar sem við teiknum yfir það svæði sem við viljum
 með því að halda inni músinni og búa til kassa á það svæði sem við viljum. 
+
+Hérna er tækifæri að gera vinnusvæðið okkar ferning með því að breyta 
+Output width og Output height sé það sama. Þá fáum við ferning. (þetta einfaldar vinnuna í Blender)
+Ef við viljum ójafna stærð á lengd og breidd þá þurfum við að skrifa niður stærðirnar sem eru í þessum Output glugga. 
 
 ![saveimage](img/landslags_fraes/saveimage.png)
 
@@ -79,15 +84,14 @@ Svo er hægt að vista yfir upprunalega png skjalið með því að gera file-ov
 
 Myndin ætti núna að líta svona út.
 
+## BLENDER
+
 ![blenderaddplane](img/landslags_fraes/blenderaddplane.png)
 
 Nú getum við opnað blender. Best er að vera með 5.0 eða nýrri útgáfu af blender.
 Þú mátt eyða "cube" hlutinum sem er alltaf default þegar við opnum vinnusvæðið. Einnig er í lagi að eyða myndavélinni og ljósi en mér finnst fínt að skilja ljósið eftir ef þú skildir vilja rendera myndina seinna. (en það er annað)
+Veldu "ADD" og búðu til "PLANE"
 
-![scaleplane](img/landslags_fraes/scaleplane.png)
-
-Það er hentugt að skala módelið aðeins upp. best er að fara með bendilinn í miðjuna á módelinu og ýta á S. 
-Svo þarf bara að færa bendilinn út og það er nóg að skala það upp þar til skjárinn er sirka fullur. 
 
 ![subdivide](img/landslags_fraes/subdivide.png)
 
@@ -99,6 +103,8 @@ Farðu í "EDIT MODE" og hægrismelltu á flötinn. Þar efst ætti að vera "su
 Það ætti að birtast subdivide gluggi niðri í vinstra horni og byrjum á því að setja 60 subdivide til að byrja með (alltaf hægt að bæta við seinna meir. 
 Þarna er komið nóg af polygonum til þess að byrja að fikta með modifier
 
+Farðu núna í "OBJECT MODE" fyrir næsta skref
+
 ![subdivide2](img/landslags_fraes/addmodifier.png)
 
 Hægra megin ættir þú að sjá "Add modifier" takkann. 
@@ -107,8 +113,52 @@ Hægra megin ættir þú að sjá "Add modifier" takkann.
 
 Nú getur þú valið "Search" og fundið "Displace" modifier
 
+![modifytexture](img/landslags_fraes/modifiertexture.png)
 
+Inn í "Displace" modifier þá notar þú bara tvo glugga. "Modifier" og "Texture"
 
+![subdivide2](img/landslags_fraes/opentexture.png)
+
+Farðu inn í "Texture" gluggan og smelltu á "OPEN"
+Finndu .png myndina sem þú ætlar að nota fyrir landslagið. Annað hvort beint úr Qgis eða GIMP fyrir landslag undir sjávarmáli. 
+
+![subdivide2](img/landslags_fraes/strength.png)
+
+Nú sérðu að flöturinn er farinn að afmyndast útfrá png ljósmyndinni. Ef þú vilt ýkja eða minnka styrkleikann á afmynduninni þá breytir þú "STRENGTH" inn í "Modifier"
+ég endaði á því að nota "0.15" til þess að það væri ekki of ýkt. 
+
+![subdivide2](img/landslags_fraes/subdivide3.png)
+
+Flöturinn er ennþá mjög pixlaður. Þú getur farið aftur í "EDIT MODE" - Valið flötinn og hægri smellt til þess að fá upp "subdivide" aftur. 
+
+![subdivide2](img/landslags_fraes/subdivide31.png)
+
+ATH!!!!
+Hafðu í huga að setja ekki of háa tölu núna því þá frýs forritið. Nú vantar bara 3-4 margafaldanir í viðbót til að fá fleiri polygona.
+Því sterkari sem tölvan er því nákvæmara er hægt að búa til módelið. 
+
+Farðu nú aftur yfir í "OBJECT MODE"
+
+![subdivide2](img/landslags_fraes/subdividemodifier.png)
+
+Nú getur þú gert módelið ennþá mýkra með því að bæta við "Subdivide surface" modifier. 
+Hann mýkir módelið frekar. 
+
+Ef þú ert að hugsa 
+"af hverju að nota ekki bara modifier fyrir alltsaman?" 
+Því að "Displace" vinnur úr hversu margir polygonar eru í modelinu. 
+"Subdivide surface" mýkir módelið frekar. Eins og sést hér fyrir neðan
+
+![subdivide2](img/landslags_fraes/final1.png)
+
+Hérna sérðu nærmynd af módelinu og "Displace" og "Subdivide surface" modifiers til hliðar.
+Þú getur fiktað með "levels viewport" töluna (ekki of háa tölu) og "Strength" til þess að fá módelið sem þig langar að búa til. 
+
+![subdivide2](img/landslags_fraes/final2.png)
+
+Nú getur þú vistað módelið með því að fara í File - Export - STL
+
+EASYPEASY! ;)
 
 
 
